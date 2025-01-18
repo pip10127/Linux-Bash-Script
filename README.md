@@ -8,4 +8,4 @@ linux-term-graphics.sh Displays the Ubuntu logo in red text.
 
 linux_mint_green.sh Displays the Linux Mint logo in green text
 
-wifitester.sh simple test to see ping and connect to wifi 
+wifitest.sh simple test to see ping and connect to wifi 
